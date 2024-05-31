@@ -1,0 +1,1 @@
+<img class="rounded-2xl mb-5" alt="" width="90%" src="http://localhost/blog/bl-themes/blug-main/img/konn.jpg">

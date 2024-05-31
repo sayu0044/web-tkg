@@ -1,0 +1,18 @@
+<h1></h1>
+<p></p>
+<ul>
+<li><strong>Visi</strong></li>
+</ul>
+<p>Visi Program Studi Terapan Teknologi Kesehatan Gigi adalah menjadi prodi terkemuka di bidang gigi yang mandiri dan inovatif yang mengedepankan estetik berbasis IPTEK mutkahir di tingkat Nasioanal dan Internasional berdasarkan moral agama. </p>
+<p></p>
+<ul>
+<li><strong>Misi</strong></li>
+</ul>
+<p>Misi Program Studi Terapan Teknologi Kesehatan Gigi adalah:</p>
+<ol>
+<li>Meyelenggarakan pendidikan vokasional di bidang teknologi kesehatan gigi yang mengedepankan estetik berbasis IPTEK mutakhir yang mampu bersaing di tingkat Nasioanal dan Internasional;</li>
+<li>menyelenggarakan penelitian terapan yang inovatif di bidang teknologi kesehatan gigi yang  mengedepankan estetik berbasis IPTEK mutakhir berlandaskan nilai kebangsaan dan moral agama untuk menunjang pengembangan pendidikan Teknologi Kesehatan Gigi dan Pengabdian kepada masyarakat di bidang laboratorium keteknisian gigi;</li>
+<li>Mendharmabaktikan keahlian vokasional di bidang Teknologi Kesehatan Gigi yang mengedepankan estetika kepada masyarakat dalam lingkup nasional dan internasional;</li>
+<li>menjalin kerjasama dengan segenap stakeholders dalam berbagai kegiatan pendidikan,penelitan,dan pengabdian kepada masyarakat.  </li>
+</ol>
+<p></p>
